@@ -2,7 +2,7 @@
 
 ## Web Developers
 
-* Take codes or design that have been created to turns it into website.*
+* Take codes or design that have been created to turns it into website. *
 
 They use languages sch as:
 
